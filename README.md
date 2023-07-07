@@ -2,12 +2,12 @@
 <h3 align="center">Software Engineering</h3>
 
 
-- 🤓I’m Always learning new things🫡
-- 💙 I interested in Mobile Software Development📱and Web Development 💻
-- 🌱 I’m currently learning **Back end development**
+- I’m Always learning new things🫡
+-  I interested in Mobile Software Development📱and Web Development 💻
+-  I’m currently learning **Back end development**
 -  Currently I am learning Flutter Framework.
 -passionate about UX / UI
-- 📫 Feel free to reach me out asaylsalwadani@gmail.com
+-  Feel free to reach me out asaylsalwadani@gmail.com
 
 
 
