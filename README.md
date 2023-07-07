@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/asayl-alwadani-76397b215](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGvQOscfxa98AAAAYkwirEYYfZ2d8vuVjZjdhLBHnVn2tpbaUFi9b2vv7pGp853YQ-BEl6gB1kH7YsJHVAM7WM4yX3s_4b5frU-OQwQI2lE3VvPx7DcFbiQhGQbtip5I8mli50=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fasayl-alwadani-76397b215%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asayl-alwadani-76397b215" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asayl-alwadani-76397b215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asayl-alwadani-76397b215" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asaylsa&show_icons=true&locale=en&layout=compact" alt="asaylsa" /></p>
