@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Asayl Alwadani</h1>
 <h3 align="center">Software Engineering</h3>
 
+
+- 🤓I’m Always learning new things🫡
+- 💙 I interested in Mobile Software Development📱and Web Development 💻
+- 🌱 I’m currently learning **Back end development**
+-  Currently I am learning Flutter Framework.
+-passionate about UX / UI
+- 📫 Feel free to reach me out asaylsalwadani@gmail.com
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asaylsa&label=Profile%20views&color=0e75b6&style=flat" alt="asaylsa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asaylsa" alt="asaylsa" /></a> </p>
